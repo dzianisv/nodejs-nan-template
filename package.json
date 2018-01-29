@@ -1,0 +1,12 @@
+{
+  "name": "addon",
+  "version": "0.0.0",
+  "description": "Node.js Addons Example",
+  "main": "index.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "nan": "*",
+    "node-gyp": "^3.6.2"
+  }
+}
